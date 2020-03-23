@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="727620c6-55ed-4743-89bc-732b5bf77860" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZMetUQvgvASMrD48hn0q4qSh8B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Homework2_1703" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="727620c6-55ed-4743-89bc-732b5bf77860" name="Default Changelist" comment="" />
+      <created>1584653605268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584653605268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584665968853">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="183" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1584665968853" />
+    <state x="273" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1584815798842">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="273" y="180" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1584815798842" />
+    <state x="320" y="26" key="CommitChangelistDialog2" timestamp="1584703325926">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="26" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584703325926" />
+    <state width="1362" height="191" key="GridCell.Tab.0.bottom" timestamp="1584818066096">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1362" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584818066096" />
+    <state width="1362" height="191" key="GridCell.Tab.0.center" timestamp="1584818066095">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1362" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1584818066095" />
+    <state width="1362" height="191" key="GridCell.Tab.0.left" timestamp="1584818066095">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1362" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1584818066095" />
+    <state width="1362" height="191" key="GridCell.Tab.0.right" timestamp="1584818066095">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1362" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1584818066095" />
+    <state width="1398" height="252" key="GridCell.Tab.1.bottom" timestamp="1584700342121">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584700342121" />
+    <state width="1398" height="252" key="GridCell.Tab.1.center" timestamp="1584700342120">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="252" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1584700342120" />
+    <state width="1398" height="252" key="GridCell.Tab.1.left" timestamp="1584700342120">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="252" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1584700342120" />
+    <state width="1398" height="252" key="GridCell.Tab.1.right" timestamp="1584700342121">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="252" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1584700342121" />
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584828193934">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1584828193934" />
+    <state x="503" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584703354268">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="503" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1584703354268" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework2_1703$Main.ic" NAME="Main Coverage Results" MODIFIED="1584698527522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
