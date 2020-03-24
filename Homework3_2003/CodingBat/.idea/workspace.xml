@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ff65bb-ea98-4f03-ba3f-5fcfbf46f100" name="Default Changelist" comment="" />
+    <list default="true" id="b6ff65bb-ea98-4f03-ba3f-5fcfbf46f100" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +14,22 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZVGQOQASzdSmoggFJAhnAyO93F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -49,9 +61,17 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="532" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1584924176182" />
-    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584955362231">
+    <state x="583" y="327" key="Github.ShareDialog" timestamp="1585042387982">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1584955362231" />
+    <state x="583" y="327" key="Github.ShareDialog/0.23.1440.797@0.23.1440.797" timestamp="1585042387982" />
+    <state x="220" y="61" key="SettingsEditor" timestamp="1585041772739">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1585041772739" />
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585041297262">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585041297262" />
   </component>
 </project>
