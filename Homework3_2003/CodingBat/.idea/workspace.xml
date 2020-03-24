@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ff65bb-ea98-4f03-ba3f-5fcfbf46f100" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b6ff65bb-ea98-4f03-ba3f-5fcfbf46f100" name="Default Changelist" comment="ready">
+      <change beforePath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +54,40 @@
       <option name="presentableId" value="Default" />
       <updated>1584916830695</updated>
     </task>
+    <task id="LOCAL-00001" summary="ready">
+      <created>1585042453008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585042453008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1584924176182">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="532" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1584924176182" />
+    <state x="200" y="23" width="1038" height="797" key="CommitChangelistDialog2" timestamp="1585042551255">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="200" y="23" width="1038" height="797" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1585042551255" />
     <state x="583" y="327" key="Github.ShareDialog" timestamp="1585042387982">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="583" y="327" key="Github.ShareDialog/0.23.1440.797@0.23.1440.797" timestamp="1585042387982" />
-    <state x="220" y="61" key="SettingsEditor" timestamp="1585041772739">
+    <state x="220" y="61" key="SettingsEditor" timestamp="1585063379049">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1585041772739" />
-    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585041297262">
+    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1585063379049" />
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585063137347">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585041297262" />
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585063137347" />
   </component>
 </project>

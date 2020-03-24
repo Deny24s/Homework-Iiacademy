@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -34,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -110,10 +111,14 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1584700342121" />
-    <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584828193934">
+    <state x="220" y="61" key="SettingsEditor" timestamp="1584977881423">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1584828193934" />
+    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1584977881423" />
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584977804401">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1584977804401" />
     <state x="503" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584703354268">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
