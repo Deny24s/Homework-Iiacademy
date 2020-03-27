@@ -50,4 +50,13 @@ public void massiv4(){
         i++;
     }while (i<number.length);
 }
+    public void massiv5 () {
+        int number [] = new int[10];
+        for (int i = 0; i <number.length ; i++) {
+            number[i]=i;
+            System.out.println(number[i]);
+        }
+        for (int i = 1; i <number.length ; i+=2) {  // вывод каждый второй элемент
+            System.out.print(number[i] + " "); }
+    }
 }
