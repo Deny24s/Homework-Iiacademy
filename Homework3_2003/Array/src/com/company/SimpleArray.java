@@ -13,7 +13,8 @@ public void massiv1 () {
         number[i]=in.nextInt();
     }
     for (int i = 0; i <number.length ; i++) {  // вывод через for
-        System.out.print(number[i] + " "); }
+        System.out.print(number[i] + " ");
+    }
 }
 
 public void massiv2(){
@@ -27,7 +28,7 @@ public void massiv2(){
 }
 public void massiv3(){
     int number [] = new int[5];
-    System.out.println("Введите значения массива");
+    System.out.println("Введите значения массива: ");
     for (int i = 0; i <number.length ; i++) {
         number[i]=in.nextInt();
     }
@@ -40,7 +41,7 @@ while (i<number.length){         //вывод while
 
 public void massiv4(){
     int number [] = new int[5];
-    System.out.println("Введите значения массива");
+    System.out.println("Введите значения массива: ");
     for (int i = 0; i <number.length ; i++) {
         number[i]=in.nextInt();
     }
