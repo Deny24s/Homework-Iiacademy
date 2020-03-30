@@ -15,6 +15,11 @@ public class Calculator {
         double d=calculatorWithOperator.division( f,0.0d );
         System.out.println(d); //Infinity
 
+        CalculatorWithMath calculatorWithMath=new CalculatorWithMath();
+        double e=calculatorWithMath.addition(calculatorWithMath.addition( 4.1, calculatorWithMath.multiplicate( 15,7 )),calculatorWithMath.exponention(calculatorWithMath.division( 28,5 ) ,2 ));
+        System.out.println(e);
+
+
 
     }
 

@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="530df91b-b2b5-499a-ad56-6bd2eb8cfbfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/KindsOfSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/ShakeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/SimpleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/out/production/Array/com/company/SimpleArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/ShakeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/SimpleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework3_2003/Array/src/com/company/SimpleArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="530df91b-b2b5-499a-ad56-6bd2eb8cfbfe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,42 +73,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="532" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1584925641993">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="532" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1585574166869">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="532" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1584925641993" />
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1585526540719">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="532" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798@0.23.1440.798" timestamp="1585574166869" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1585569468841">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1585526540719" />
-    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1585526540718">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1585566591987" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1585569468841" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1585569468841">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1585526540718" />
-    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1585526540718">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1585566591986" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1585569468841" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1585569468840">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1585526540718" />
-    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1585526540718">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1585566591985" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1585569468840" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1585569468841">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1585526540718" />
-    <state width="1362" height="239" key="GridCell.Tab.1.bottom" timestamp="1584840858330">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1585566591987" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1585569468841" />
+    <state width="1398" height="252" key="GridCell.Tab.1.bottom" timestamp="1585569468835">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1362" height="239" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1584840858330" />
-    <state width="1362" height="239" key="GridCell.Tab.1.center" timestamp="1584840858330">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1585566592184" />
+    <state width="1398" height="252" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1585569468835" />
+    <state width="1398" height="252" key="GridCell.Tab.1.center" timestamp="1585569468835">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1362" height="239" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1584840858330" />
-    <state width="1362" height="239" key="GridCell.Tab.1.left" timestamp="1584840858330">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1585566592184" />
+    <state width="1398" height="252" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1585569468835" />
+    <state width="1398" height="252" key="GridCell.Tab.1.left" timestamp="1585569468834">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1362" height="239" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1584840858330" />
-    <state width="1362" height="239" key="GridCell.Tab.1.right" timestamp="1584840858330">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="252" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1585566592183" />
+    <state width="1398" height="252" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1585569468834" />
+    <state width="1398" height="252" key="GridCell.Tab.1.right" timestamp="1585569468835">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
-    <state width="1362" height="239" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1584840858330" />
+    <state width="1398" height="252" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1585566592184" />
+    <state width="1398" height="252" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1585569468835" />
     <state x="221" y="60" key="SettingsEditor" timestamp="1585524520346">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -136,9 +126,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="502" y="208" key="chooseDestDirectoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1584798221571" />
-    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585524504833">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585574109199">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585524504833" />
+    <state x="373" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1585574109199" />
   </component>
 </project>

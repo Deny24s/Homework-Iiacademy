@@ -7,7 +7,7 @@ public class EnumMain {
 //        System.out.println(country.getPopulationSize());
 
         System.out.println(ECountry.valueOf( "GERMANY" ));
-        System.out.println(ECountry.valueOf( "GERMANY" )==ECountry.GERMANY);
+        System.out.println(ECountry.valueOf( "GERMANY") ==ECountry.GERMANY);
 //        System.out.println(ECountry.valueOf( "ABHAZIA" ));
 
         CountryAreaComparator countryAreaComparator=new CountryAreaComparator();
