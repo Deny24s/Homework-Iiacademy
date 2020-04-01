@@ -35,7 +35,6 @@ public double absolutValue(double num1){
 public double rootNumber(double num1) {// квадратный корень
     double root = num1 / 2;
     double a = (root * root);
-
     while (a > num1) {
         a = (root * root) - num1;
         root--;
