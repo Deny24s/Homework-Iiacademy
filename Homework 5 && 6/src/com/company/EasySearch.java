@@ -6,12 +6,12 @@ import java.nio.file.Paths;
 
 public class EasySearch implements ISearchEngine {
     private String war= "война";
-    private String peace="мир ";
+    private String peace="мир";
     private String union=" и ";
 
 
     public String readAllBytesJava() {
-        String filePath="/Users/denissamsonenko/IdeaProjects/Homework/Homework5/Война и мир.txt";
+        String filePath="/Users/denissamsonenko/IdeaProjects/Homework/Homework 5 && 6/Война и мир.txt";
         String content="";
         try{
             content=new String( Files.readAllBytes( Paths.get(filePath) ) );
@@ -19,7 +19,7 @@ public class EasySearch implements ISearchEngine {
         catch (IOException e){
             e.printStackTrace();
         }
-        return content;
+        return content.toLowerCase().replaceAll( "\\p{Punct}","" );
     }
 
 
