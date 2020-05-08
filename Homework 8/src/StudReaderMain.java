@@ -14,12 +14,12 @@ public class StudReaderMain {
             e.printStackTrace();
         }
 
-        Collections.sort( list, Comparator.comparing( Student::toString ) );
+        Collections.sort( list, Comparator.comparing( student -> student.getName() ) );
 
         FileWriter fw=new FileWriter( "student1.txt" );
         for (Student sortfin:list){
 //            System.out.println(sortfin + "\n");
-            fw.write( sortfin + "\n" );
+            fw.write( "Имя: "+sortfin.getName() + " айди: "+sortfin.getId()+ "\n" );
         }
         fw.flush();
         fw.close();
