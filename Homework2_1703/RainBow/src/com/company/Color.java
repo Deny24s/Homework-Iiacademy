@@ -9,44 +9,44 @@ public class Color { //Создали класс
     private final int Aqua = 5;
     private final int Blue = 6;
     private final int Purple = 7;
-    private int ColorNumber;
-    private String Name;
+    private int colorNumber;
+    private String name;
 
     public Color(int ColorNumber) {//Конструктор
-        this.ColorNumber = ColorNumber;
+        this.colorNumber = ColorNumber;
     }//Конструктор
 
     public int getNumber() {        //метод 1
-        return ColorNumber;
+        return colorNumber;
     } //метод1
 
     public String getName() {     //метод 2
 
-        switch (ColorNumber) {
+        switch (colorNumber) {
             case Red:
-                Name = "Красный";
+                name = "Красный";
                 break;
             case Orange:
-                Name = "Оранжевый";
+                name = "Оранжевый";
                 break;
             case Yellow:
-                Name = "Желтый";
+                name = "Желтый";
                 break;
             case Green:
-                Name = "Зеленый";
+                name = "Зеленый";
                 break;
             case Aqua:
-                Name = "Голубой";
+                name = "Голубой";
                 break;
             case Blue:
-                Name = "Синий";
+                name = "Синий";
                 break;
             case Purple:
-                Name = "Фиолетовый";
+                name = "Фиолетовый";
                 break;
             default:
-                Name = "Неизвестно";
+                name = "Неизвестно";
         }
-       return Name;
+       return name;
     }
 }

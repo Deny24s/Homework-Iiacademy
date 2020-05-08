@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="530df91b-b2b5-499a-ad56-6bd2eb8cfbfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Homework5/src/com/company/ISearchEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework5/src/com/company/ISearchEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2_1703/RainBow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2_1703/RainBow/out/production/Homework2_1703/com/company/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2_1703/RainBow/out/production/Homework2_1703/com/company/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2_1703/RainBow/src/com/company/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2_1703/RainBow/src/com/company/Color.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
