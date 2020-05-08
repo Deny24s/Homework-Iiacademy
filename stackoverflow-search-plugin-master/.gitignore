@@ -1,0 +1,15 @@
+target
+/build
+.gradle
+/target/
+*.iws
+*.ipr
+*.iml
+.settings
+.classpath
+.idea
+
+.metadata/
+Servers/
+*.project
+*.factorypath
