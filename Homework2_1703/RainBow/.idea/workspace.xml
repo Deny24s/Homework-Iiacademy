@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727620c6-55ed-4743-89bc-732b5bf77860" name="Default Changelist" comment="" />
+    <list default="true" id="727620c6-55ed-4743-89bc-732b5bf77860" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Homework4_2403/Enum,Interface/out/production/Enum,Interface/META-INF/Enum,Interface.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -67,6 +72,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="307" y="92" key="#Project_Structure" timestamp="1589292309016">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="307" y="92" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1589292309016" />
     <state x="183" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584665968853">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -79,22 +88,22 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="320" y="26" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584703325926" />
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1588200750875">
+    <state width="1373" height="188" key="GridCell.Tab.0.bottom" timestamp="1589292863974">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588200750875" />
-    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1588200750875">
+    <state width="1373" height="188" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589292863974" />
+    <state width="1373" height="188" key="GridCell.Tab.0.center" timestamp="1589292863973">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588200750875" />
-    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1588200750875">
+    <state width="1373" height="188" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589292863973" />
+    <state width="1373" height="188" key="GridCell.Tab.0.left" timestamp="1589292863973">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588200750875" />
-    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1588200750875">
+    <state width="1373" height="188" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589292863973" />
+    <state width="1373" height="188" key="GridCell.Tab.0.right" timestamp="1589292863973">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588200750875" />
+    <state width="1373" height="188" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589292863973" />
     <state width="1398" height="252" key="GridCell.Tab.1.bottom" timestamp="1584700342121">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -111,14 +120,14 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="252" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1584700342121" />
-    <state x="220" y="61" key="SettingsEditor" timestamp="1584977881423">
+    <state x="220" y="61" key="SettingsEditor" timestamp="1589291975345">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1584977881423" />
-    <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588200639278">
+    <state x="220" y="61" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1589291975345" />
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1589291826940">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1588200639278" />
+    <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1589291826940" />
     <state x="503" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584703354268">
       <screen x="0" y="23" width="1440" height="797" />
     </state>

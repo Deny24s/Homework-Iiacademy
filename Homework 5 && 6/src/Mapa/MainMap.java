@@ -5,7 +5,7 @@ import java.util.*;
 public class MainMap {
     public static void main(String[] args) {
         EasySearch easySearch = new EasySearch();
-        String[] text = easySearch.readAllBytesJava().replaceAll( "\\p{Punct}", "" ).toLowerCase().split( " " );
+        String[] text = easySearch.readAllBytesJava().split( " " );
 
         Map<String, Integer> data = new HashMap<>();
         for (String word : text) {
@@ -30,5 +30,6 @@ public class MainMap {
         for (int i=1; i<=10; i++){
             System.out.println(sort.get( i ));
         }
+
     }
 }

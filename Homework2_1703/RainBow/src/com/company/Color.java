@@ -23,29 +23,14 @@ public class Color { //Создали класс
     public String getName() {     //метод 2
 
         switch (colorNumber) {
-            case Red:
-                name = "Красный";
-                break;
-            case Orange:
-                name = "Оранжевый";
-                break;
-            case Yellow:
-                name = "Желтый";
-                break;
-            case Green:
-                name = "Зеленый";
-                break;
-            case Aqua:
-                name = "Голубой";
-                break;
-            case Blue:
-                name = "Синий";
-                break;
-            case Purple:
-                name = "Фиолетовый";
-                break;
-            default:
-                name = "Неизвестно";
+            case Red -> name = "Красный";
+            case Orange -> name = "Оранжевый";
+            case Yellow -> name = "Желтый";
+            case Green -> name = "Зеленый";
+            case Aqua -> name = "Голубой";
+            case Blue -> name = "Синий";
+            case Purple -> name = "Фиолетовый";
+            default -> name = "Неизвестно";
         }
        return name;
     }

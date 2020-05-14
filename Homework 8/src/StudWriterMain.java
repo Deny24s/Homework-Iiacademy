@@ -11,7 +11,7 @@ public class StudWriterMain {
         for (int i=0; i<100_000; i++){
         list.add( new Student( String.valueOf(rnd.nextInt()), String.valueOf( rnd.nextInt() ) ) );
         }
-        try (ObjectOutputStream oos=new ObjectOutputStream( new FileOutputStream("student.txt") )){
+        try (ObjectOutputStream oos=new ObjectOutputStream( new FileOutputStream("student.bin") )){
             oos.writeObject( list);
         } catch (IOException e) {
             e.printStackTrace();
