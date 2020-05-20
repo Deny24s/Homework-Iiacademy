@@ -11,19 +11,19 @@ public class MainWithLambda {
     public static void main(String[] args) {
         ISearchEngine searchWithLambda = (text, word) -> {
             int count = 0;
-            Pattern pattern = Pattern.compile( "\\s" + word + "\\s");
+            Pattern pattern = Pattern.compile( "\\s" + word + "\\s" );
+//            если искать любое совпадение использовать (word)
             Matcher matcher = pattern.matcher( text );
             while (matcher.find()) {
                 count++;
             }
             return count;
         };
-
         Scanner scanner = new Scanner( System.in );
         System.out.println( "Определите слово для поиска (для выхода введите - quit/QUIT): " );
         while (1 == 1) {
             String input = scanner.nextLine().toLowerCase();
-            if (input.toLowerCase().equals( "quit" )) {
+            if (input.equals( "quit" )) {
                 System.out.println("Thank you Bro :-*");
                 break;
             }
@@ -32,7 +32,7 @@ public class MainWithLambda {
                     searchWithLambda.search( readAllBytesJava(), input ) + " раз(а)" );
         }
     }
-
+    
      private static String readAllBytesJava() {
             String filePath="/Users/denissamsonenko/IdeaProjects/Homework/Homework 9/War&Peace/Война и мир.txt";
             String content=" ";
@@ -42,6 +42,6 @@ public class MainWithLambda {
             catch (IOException e){
                 e.printStackTrace();
             }
-            return  content.toLowerCase().replaceAll( "\\p{Punct}", " "  );
+            return  content.toLowerCase().replaceAll( "\\p{Punct}]", " "  );
         }
 }
