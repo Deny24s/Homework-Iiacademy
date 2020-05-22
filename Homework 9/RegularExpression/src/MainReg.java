@@ -19,8 +19,8 @@ public class MainReg {
                         Collectors.counting() ) );
         return withoutSort;
     }
-        private static void topUrl (Map<String,Long> urlWithoutSort) {
-            urlWithoutSort.entrySet()
+        private static void topUrl (Map<String,Long> withoutSort) {
+            withoutSort.entrySet()
                     .stream()
                     .sorted(Map.Entry.comparingByValue(Collections.reverseOrder()))
                     .limit( 10 )
